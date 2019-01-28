@@ -19,3 +19,5 @@
 </ul>
 
 <h1>Instruction</h1>
+
+1. The jupyter notebook contains necessary python code to run and text chilenpred.
